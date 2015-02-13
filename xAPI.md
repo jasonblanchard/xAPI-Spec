@@ -630,7 +630,7 @@ can be used.  There are two types of Groups, anonymous and identified.
 
 ###### Details
 
-An Anonymous Group is used describe a cluster of people where there is no ready identifier for 
+An Anonymous Group is used to describe a cluster of people where there is no ready identifier for 
 this cluster, e.g. an ad hoc team.
 
 The table below lists all properties of an Anonymous Group.
